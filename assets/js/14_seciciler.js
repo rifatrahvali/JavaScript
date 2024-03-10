@@ -1,0 +1,1 @@
+// 14_40. Element Seçiciler & Object Assign Kullanımı |

@@ -1,0 +1,1 @@
+// 23. String Trim Fonksiyonu Kullanımı

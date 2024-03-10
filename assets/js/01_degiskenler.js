@@ -1,0 +1,1 @@
+// Değişkenler - Scope Özellikleri & var | let | const 

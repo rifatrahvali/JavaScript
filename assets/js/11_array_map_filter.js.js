@@ -1,0 +1,1 @@
+// 24. Array - Diziler & Array Fonksiyonları & Foreach & Map & Filter Kullanımları

@@ -1,0 +1,1 @@
+// 46. Contructor Function Kalıtım Örneği

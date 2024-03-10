@@ -1,0 +1,1 @@
+// 45. Constructor Function - Call | Apply | Bind Kullanımları

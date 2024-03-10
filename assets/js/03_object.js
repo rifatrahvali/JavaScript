@@ -1,0 +1,1 @@
+//16. Object - Nesne Tanımlama & Fonksiyon Türleri ve Tanımlama Farkları
